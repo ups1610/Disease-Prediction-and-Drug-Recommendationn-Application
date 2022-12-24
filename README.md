@@ -20,6 +20,25 @@ better convenience and satisfaction.***
 * As the pandamic going on most of the people suffer the fear of having a corona virus if any mildsymptoms arises. Due to this they eirher don't took any medicine or kept themselves locked in the house.
 * From these things I get an idea to develop a disease recommmendation system in order to predict the dicease based on the symptoms and recommend the drug based on the prediction from the application .
 
+## App Feature
+* Two way login authenctication one for Patient dashboard and other for doctor dashboard.
+* Patient can predict the disease based on the symptoms.
+* Patient can book an appointment with the doctor.
+* Doctor can reccomend the medcine based on prediction.
+* Responsive Design to give better user experience.
+
+## Project Demo
+
+https://drive.google.com/file/d/1JXAwTFPZRktVw2U7qLf7hrCF1bTEP3YW/view?usp=sharing
+
+## Technologies
+
+* Python
+* Django
+* Machine Learning
+* Ajax
+* Jquery
+* SQL
 
 
 Contains database
