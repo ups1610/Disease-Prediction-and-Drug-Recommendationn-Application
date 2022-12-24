@@ -29,7 +29,7 @@ better convenience and satisfaction.***
 
 ## Project Demo
 
-(https://drive.google.com/file/d/1JXAwTFPZRktVw2U7qLf7hrCF1bTEP3YW/view?usp=sharing)](https://drive.google.com/file/d/1JXAwTFPZRktVw2U7qLf7hrCF1bTEP3YW/view?usp=sharing)
+[![asciicast](https://asciinema.org/a/113463.png)](https://drive.google.com/file/d/1JXAwTFPZRktVw2U7qLf7hrCF1bTEP3YW/view?usp=sharing)
 
 ## Technologies
 
