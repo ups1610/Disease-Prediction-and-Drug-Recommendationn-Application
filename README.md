@@ -29,7 +29,7 @@ better convenience and satisfaction.***
 
 ## Project Demo
 
-[![Watch the video]()](https://drive.google.com/file/d/1JXAwTFPZRktVw2U7qLf7hrCF1bTEP3YW/view?usp=sharing)
+[![Watch the video](https://www.google.com/url?sa=i&url=https%3A%2F%2Faskubuntu.com%2Fquestions%2F544699%2Fblack-blank-screen-when-using-google-chrome&psig=AOvVaw2wCTI_y6doStp04HH1cRlA&ust=1671948743710000&source=images&cd=vfe&ved=0CBAQjRxqFwoTCOCngcnMkfwCFQAAAAAdAAAAABAE)](https://drive.google.com/file/d/1JXAwTFPZRktVw2U7qLf7hrCF1bTEP3YW/view?usp=sharing)
 
 ## Technologies
 
