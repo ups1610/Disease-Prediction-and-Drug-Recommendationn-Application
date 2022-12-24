@@ -14,5 +14,12 @@ algorithm named Naïve Bayes. This system also suggests drugs that are most comm
 used to cure the disease. And also if needed this application helps to appoint a doctorfor
 better convenience and satisfaction.***
 
+## Project Motive
+
+* Technology, now a days helped in various aspects of life. Healthcare/Hospitality is one of the growing field in case of data science and data mining process.
+* As the pandamic going on most of the people suffer the fear of having a corona virus if any mildsymptoms arises. Due to this they eirher don't took any medicine or kept themselves locked in the house.
+* From these things I get an idea to develop a disease recommmendation system in order to predict the dicease based on the symptoms and recommend the drug based on the prediction from the application .
+
+
 
 Contains database
